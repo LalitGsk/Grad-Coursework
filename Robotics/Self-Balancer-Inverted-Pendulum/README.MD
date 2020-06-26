@@ -26,9 +26,9 @@ b = Set of all actions that contains best action to be picked with best Q-value.
 
 The plots of the learning.dat file from the Q-learning function for different α and γ values are as follows,
 
-![](images/poleBalance_15.jpg)
+![](images/poleBalance_15.jpeg)
 
-![](images/poleBalance_25.jpg)
+![](images/poleBalance_25.jpeg)
 
 ### References: 
   - https://www.geeksforgeeks.org/q-learning-in-python/
